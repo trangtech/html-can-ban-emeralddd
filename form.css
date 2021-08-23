@@ -1,0 +1,27 @@
+h1 {
+    color:green
+}
+p {
+    color:rgb(0, 196, 0)
+}
+footer p {
+    color:gray
+}
+a {
+    color:rgb(179, 6, 41);
+    background-color: #ffd3dc;
+}
+fieldset {
+    background-color: rgb(219, 237, 255);
+}
+.h3infield {
+    color:brown;
+}
+.ainfield {
+    background-color: rgb(219, 237, 255);
+    inline-size: auto;
+}
+.eminfield {
+    color:black;
+    background-color: rgb(219, 237, 255);
+}

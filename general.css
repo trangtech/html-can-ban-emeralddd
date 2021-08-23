@@ -1,0 +1,28 @@
+h1 {
+    color:green
+}
+header p {
+    color:rgb(0, 196, 0)
+}
+p {
+    color:rgb(0, 177, 124)
+}
+td {
+    color:chocolate
+}
+footer p {
+    color:gray
+}
+.name {
+    color:cornflowerblue
+}
+em {
+    color:rgb(179, 6, 41);
+    background-color: #ffd3dc;
+}
+fieldset {
+    background-color: rgb(219, 237, 255);
+}
+h3 {
+    background-color: greenyellow;
+}
